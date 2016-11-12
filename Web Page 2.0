@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+      <meta http-equiv="Content Type" content="text/html; charset=utf-8">
+	    <title>Talos Defense </title>
+	    <style type="text/css">
+	    </style>
+</head>
+<body bgcolor="#aab7b8">
+	<table border="2">
+    <tr>
+      <td>
+        <h2> Project Neptune </h2>
+      </td>
+      <td>
+        <label for="Do-you-believe-Unmanned-Warfare-is-the-Future"> Do you believe Unmanned Warfare is the Future?</label>
+        <select id="Do-you-believe-Unmanned-Warfare-is-the-Future" name="Do you believe Unmanned Warfare is the Future?">
+          <option></option>
+          <option> yes, everything will be Unmanned </option>
+          <option> yes, but not everything will be Unmanned </option>
+          <option> no, we should not create the next terminator </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3> Diverse Range Of Missions </h3>
+          <p>The Neptune can serve as a land strike platform, utilizing the RGM/UGM-109E Tomahawk missile.</p>
+          <p>The Neptune can serve as Anti-ship, Anti Submarine platform, utilizing the RGM/UGM-109E Tomahawk or the RUM-139 VL ARSOC.</p>
+          <p>The Neptune can serve as a Air Defense platform, protecting the submarine and the fleet from Cruise missiles, Anti-ship Missiles, and attacking aircraft by utilizing the RIM-174 ERAM or the RIM-162 ESSM.
+          </p>
+      </td>
+      <td>
+          <img src="Logo2.png" alt="Logo2" style="width:480px;height:280px;">
+            <div style="font-size:10pt">
+              <p> Image Credit:
+                <a href="http://editor.freelogodesign.org/?lang=EN&logo=8590916b-1853-4876-a147-51f2051c064a">freelogodesign.org</a>
+              </p>
+            </div>
+      </td>
+    </tr>
+  </table>
+  <table border="2">
+    <tr>
+      <td>
+        <h3> Stealth Strike Package </h3>
+          <p> Being a mainly autonomous drone, The Neptune will be able to remain undetectable because it limits the amount of signals that could compromise its position.</p>
+          <p> The Neptune will be smaller than some marine life, adding to the confusion when trying to detect and destroy a Neptune.</p>
+          <p> Being a unmanned vehicle, The Neptune will be able to preform underwater maneuvers to evade enemy combatants that a manned sub could not do without jeopardizing the safety of its crew.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <i>Land Strike Platform </i>
+        </h3>
+        <ol>
+          <li>As a Land Strike Platform, the Neptune UUV will fire the RGM/UGM-109E Tomahawk missile.</li>
+          <li>Will enable the mother sub to leave the launch area, keeping 150 sailors and a $2.0 billion dollar sub out of harms way.</li>
+          <li>Can be remotely informed to launch after assuming a launch position from either satellite, shortwave, or electronic transmission from a friendly aircraft or ship.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <i>Anti-Ship/Anti-Submarine Platform </i>
+        </h3>
+        <ol>
+          <li>As an Anti-Ship/ Anti-Submarine Platform, the Neptune UUV will fire the RGM/UGM-109E Tomahawk or the RUM-139 VL ARSOC.</li>
+          <li>Could either establish a blockade, chokepoint, trap, or serve as a distraction to confuse enemy ASW.</li>
+          <li>Can be remotely informed to launch after assuming a launch position from either satellite, shortwave, or electronic transmission from a friendly aircraft or ship.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <i> Air Defense Platform </i>
+        </h3>
+        <ol>
+          <li> As a Air Defense Platform, the Neptune UUV will fire the RIM-174 ERAM or the RIM-162 ESSM Evolved Sea Sparrow.</li>
+          <li> With uplink equipment, the Neptune UUV will be able to take commands from friendly Satellites, Aircraft (manned or unmanned), and Surface Ships allowing the Neptune to remain silent until prompted to fire, where the missile will then be fed information from the system ordering it to be fired.</li>
+          <li> Because the system is not using any sort of radar to track targets and only relying on ESM and information received from the uplink, The Neptune can be put in a Air Defense ring around the fleet enabling the carried payload to begin taking out enemy aircraft and missiles with no warning long before they are within critical range of the fleet. This mission will be crucial in an ever changing environment where the enemy may have a large amount of expendable cruise missiles and aircraft that could swamp Aegis and CIWS on board the Surface Fleet.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+          <i> Intelligance Gathering </i>
+        </h3>
+        <ol>
+          <li> With ESM equipment, the Neptune UUV will be able to remain hidden and passively track any source of electromagnetic radiation and determine if it poses a threat to the fleet. This can be transmitted back to the fleet and be used to calculate a firing solution for the carried payload.</li>
+          <li> The Neptune can stealthily move close to an enemy's coast or fleet and enter a holding position, utilizing the current and waves to power it, enabling the Neptune to remain on station for an extended amount of time.</li>
+          <li> By being close to an enemy’s coast or fleet, The ESM would be able to pick up transmissions and determine what the enemy is doing. This could serve as an early warning network and also as an early engagement platform, possibly persuading the commander to de-commit forces because they were being engaged so early.</li>
+        </ol>
+      </td>
+    </tr>
+  </table>
+<div style="border-style:dotted">
+  <fieldset>
+    <legend>
+      Was this article intriguing? If so, would you like to learn more?
+    </legend>
+    Yes
+    <input name="yes" value="yes" type="radio">
+    No
+    <input name="no" value="no" type="radio">
+  </fieldset>
+</div>
+</body>
+</html>
